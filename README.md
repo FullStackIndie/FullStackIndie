@@ -2,7 +2,7 @@
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💯 [How to Login into Vivox with Unity](https://blog.fullstackindie.net/how-to-login-into-vivox-with-unity)<!-- BLOGPOSTS:END -->
+ - 💯 [How to Login into Vivox from Scratch](https://blog.fullstackindie.net/how-to-login-into-vivox-from-scratch)<!-- BLOGPOSTS:END -->
 
 
 
