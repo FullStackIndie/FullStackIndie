@@ -3,8 +3,8 @@
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
  - 💯 [How to Setup Vivox from Scratch](https://blog.fullstackindie.net/how-to-setup-vivox-from-scratch)
- - 💫 [How to Use VivoxVoiceManager.cs from Unity&#39;s Channel Sample App](https://blog.fullstackindie.net/how-to-use-vivoxvoicemanagercs-from-unitys-channel-sample-app)
- - 🔥 [How to Setup Vivox with Unity Services](https://blog.fullstackindie.net/how-to-setup-vivox-with-unity-services)
+ - 💫 [How to Login with  VivoxVoiceManager](https://blog.fullstackindie.net/how-to-login-with-vivoxvoicemanager)
+ - 🔥 [How to Setup Vivox with Unity Gaming Services](https://blog.fullstackindie.net/how-to-setup-vivox-with-unity-gaming-services)
  - 🌮 [How to Login into Vivox](https://blog.fullstackindie.net/how-to-login-into-vivox)<!-- BLOGPOSTS:END -->
 
 
