@@ -44,10 +44,10 @@ I started learning to code back in high school with Visual Basic .Net before You
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
-* 💯 [How to Setup Vivox from Scratch](https://blog.fullstackindie.net/how-to-setup-vivox-from-scratch)
-* 💫 [How to Login with  VivoxVoiceManager](https://blog.fullstackindie.net/how-to-login-with-vivoxvoicemanager)
-* 🔥 [How to Setup Vivox with Unity Gaming Services](https://blog.fullstackindie.net/how-to-setup-vivox-with-unity-gaming-services)
-* 🌮 [How to Login into Vivox](https://blog.fullstackindie.net/how-to-login-into-vivox)<!-- BLOGPOSTS:END -->
+ - 💯 [How to Setup Vivox from Scratch](https://blog.fullstackindie.net/how-to-setup-vivox-from-scratch)
+ - 💫 [How to Login with  VivoxVoiceManager](https://blog.fullstackindie.net/how-to-login-with-vivoxvoicemanager)
+ - 🔥 [How to Setup Vivox with Unity Gaming Services](https://blog.fullstackindie.net/how-to-setup-vivox-with-unity-gaming-services)
+ - 🌮 [How to Login into Vivox](https://blog.fullstackindie.net/how-to-login-into-vivox)<!-- BLOGPOSTS:END -->
 
 <!--
 **FullStackIndie/FullStackIndie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
