@@ -9,7 +9,9 @@ I started learning to code back in high school with Visual Basic .Net before You
 * 🌍  I'm based in Oakland, CA
 * ✉️  You can contact me at [johnmurphy\_21@yahoo.com](mailto:johnmurphy_21@yahoo.com)
 * 🚀  I'm currently working on [EasyCodeForVivox](http://assetstore.unity.com/packages/add-ons/easycodeforvivox-202190)
-* 🧠  I'm learning Unity's Gaming Services, Docker, some AWS, microservice architecture, and DevOps### Skills
+* 🧠  I'm learning Unity's Gaming Services, Docker, some AWS, microservice architecture, and DevOps
+
+### Skills
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
