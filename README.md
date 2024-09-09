@@ -8,7 +8,7 @@ I started learning to code back in high school with Visual Basic .Net before You
 
 * 🌍  I'm based in Oakland, CA
 * ✉️  You can contact me on [LinkedIn](https://www.linkedin.com/in/john-murphy21) or check out my [Portfolio](http://portfolio.fullstackindie.net/)
-* 🚀  I'm currently working on updating and making content for my [blog](https://blog.fullstackindie.net/) and my open source project [EasyCodeForVivox](http://assetstore.unity.com/packages/add-ons/easycodeforvivox-202190) that helps developers incoporate Vivox Voice Chat inside of the Unity Game Engine
+* 🚀  I'm currently working on updating and making content for my [blog](https://blog.fullstackindie.net/) and creating side projects to help boost my portfolio
 * 🧠  I am frequently learning new things about Asp.Net Core, Docker, some AWS services, Ubuntu/Linux, microservices, Unity's Gaming Services, and DevOps
 
 ### Skills
@@ -22,36 +22,37 @@ I started learning to code back in high school with Visual Basic .Net before You
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/dotnet/brand/main/logo/dotnet-logo.svg" width="36" height="36" alt=".NET" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 </p>
 
 ### Socials
 
-<p align="left">
-<a href="https://www.github.com/FullStackIndie" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<p align="left"> <a href="https://www.github.com/FullStackIndie" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
 <a href="https://www.twitter.com/FullStackIndie" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
  <a href="https://www.youtube.com/channel/UCIuxTX1If3QJ9inX1TytGuA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
   <a href="https://blog.fullstackindie.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
+ <a href="https://stackoverflow.com/users/14465032/john-murphy"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32"></a>
     <a href="https://www.linkedin.com/in/john-murphy21/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
 ### Badges
 
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/FullStackIndie"><img src="https://github-readme-stats.vercel.app/api?username=FullStackIndie&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="FullStackIndie's GitHub stats" /></a>
+
+<a href="http://www.github.com/FullStackIndie"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FullStackIndie&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/FullStackIndie" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FullStackIndie&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 <b>Top Repositories</b><div width="100%" align="center">
 <a href="https://github.com/FullStackIndie/easycodeforvivox" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=FullStackIndie&repo=easycodeforvivox&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 <br /><br /><br /><br /><br /><br /><br />
 
-#### :books: Recent Blog Posts
-<!-- BLOGPOSTS:START -->
-* 💯 [How to Setup Vivox from Scratch](https://murphymurph21.hashnode.dev/how-to-setup-vivox-from-scratch)
-* 💫 [How to Login with  VivoxVoiceManager](https://murphymurph21.hashnode.dev/how-to-login-with-vivoxvoicemanager)
-* 🔥 [How to Setup Vivox with Unity Gaming Services](https://murphymurph21.hashnode.dev/how-to-setup-vivox-with-unity-gaming-services)
-* 🌮 [How to Login into Vivox](https://murphymurph21.hashnode.dev/how-to-login-into-vivox)<!-- BLOGPOSTS:END -->
+
+
 
 <!--
-**FullStackIndie/FullStackIndie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
