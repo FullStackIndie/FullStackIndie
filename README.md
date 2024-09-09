@@ -45,10 +45,13 @@ I started learning to code back in high school with Visual Basic .Net before You
 
 <a href="https://github.com/FullStackIndie" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FullStackIndie&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b><div width="100%" align="center">
-<a href="https://github.com/FullStackIndie/easycodeforvivox" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=FullStackIndie&repo=easycodeforvivox&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-<br /><br /><br /><br /><br /><br /><br />
+<b>Top Repositories</b>
 
+<div width="100%" align="center"><a href="https://github.com/FullStackIndie/Ansible-Playbooks" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=FullStackIndie&repo=Ansible-Playbooks&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/FullStackIndie/sitemap-generator" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=FullStackIndie&repo=sitemap-generator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/FullStackIndie/editor-js-tabs" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=FullStackIndie&repo=editor-js-tabs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 
 
